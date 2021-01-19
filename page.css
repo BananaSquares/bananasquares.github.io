@@ -1,0 +1,29 @@
+
+@font-face {
+        font-family: 'Minecraft';
+        src: url("minecraft_font.tff");
+}
+body {
+    overflow: hidden;
+    background-color: black;
+}
+#title1 {
+    color: white;
+    font-family: Minecraft;
+    position: relative;
+    text-align: center;
+    font-size: 75px;
+}
+#title2 {
+    color: white;
+    font-family: Minecraft;
+    position: relative;
+    text-align: center;
+    font-size: 75px;
+    top: 70px;
+}
+#pfp {
+    position: relative;
+    height: 400px;
+    width: 300px;
+}
