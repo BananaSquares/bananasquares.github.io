@@ -1,7 +1,7 @@
 
 @font-face {
         font-family: 'Minecraft';
-        src: url("minecraft_font.tff");
+        src: url(minecraft_font.tff);
 }
 body {
     overflow: hidden;
